@@ -12,4 +12,4 @@ function fibonacci(num) {
 	return b;
 }
 
-module.exports = fibonacci(num);
+module.exports = fibonacci;
